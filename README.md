@@ -1,6 +1,11 @@
 # Mosaic-Unraveler
 A numerical-computation based image analysis tool for detecting and counting images in mosaic art images. 
 
+
+## Features
+- Detecting and Identifying how many common shapes like circles, triangles, squares and more 
+- Output the total count of each type of shape in an mosaic image 
+
 ## Usage
 
 1. Clone the repository to your local machine
